@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+ATQASUK",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+ATQASUK",
+  "title": "Federal Register - AK NATIVE VILLAGE OF ATQASUK",
+  "fetched_at": "2026-11-23T16:08:51.919060Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 231243,
+  "sha256": "adfebbe4887f506100dd0a7fae9591d7f68cb647b90200393790506a9b3ca707",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
